@@ -1,2 +1,2 @@
 # vue.js-multiselct-dropdown
-multiselect dropdown and selected data display in textarea
+multiselect dropdown and display selected items in textarea
